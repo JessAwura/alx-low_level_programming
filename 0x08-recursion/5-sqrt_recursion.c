@@ -1,4 +1,4 @@
-i#include "main.h"
+#include "main.h"
 
 int actual_sqrt_recursion(int n, int i);
 
@@ -31,3 +31,32 @@ int actual_sqrt_recursion(int n, int i)
 		return (i);
 	return (actual_sqrt_recursion(n, i + 1));
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
